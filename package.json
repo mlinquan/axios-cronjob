@@ -1,0 +1,24 @@
+{
+  "name": "axios-cronjob",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "axios",
+    "cronjob",
+    "schedule",
+    "timing",
+    "request",
+    "http"
+  ],
+  "main": "index.js",
+  "author": "Lin Quan <i@linquan.name>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-schedule": "^1.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlinquan/axios-cronjob.git"
+  }
+}
